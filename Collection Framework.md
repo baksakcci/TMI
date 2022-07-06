@@ -17,6 +17,6 @@
 
 그림을 통해 상속 다이어그램을 이해해보자
 
-![image-20220705165127287](images/Collection Framework/image-20220705165127287.png)
+![image-20220705165127287](https://user-images.githubusercontent.com/105288887/177525358-17e4c82a-8f9b-4a20-b67a-29e17e76ba56.png)
 
 하나하나 살펴보자
