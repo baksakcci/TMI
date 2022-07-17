@@ -27,6 +27,8 @@ hyper의 뜻은 뭘까
 
 나무위키 생각하면 쉽다.
 
+![image](https://user-images.githubusercontent.com/105288887/178789495-5506da89-ed01-49e3-b038-43669ef48d7f.png)
+
 **Hyper Text**
 
 `hyper link 기능이 삽입된 문서`
@@ -59,6 +61,8 @@ Standard Generalized Markup Language 표준 마크업 언어 규약
 	<!-- finish this later -->
 <motd>
 ```
+
+![image](https://user-images.githubusercontent.com/105288887/178789558-5dd37221-2978-4a2e-b1ed-6fffca7cf748.png)
 
 ## `SGML`의 후속작 `HTML`의 등장
 
@@ -111,6 +115,7 @@ eXtensible Markup Language
 ## 이 둘이 차이점은 뭘까?
 
 - 데이터의 표현, 데이터 교환을 위한 구조정의
+![image](https://user-images.githubusercontent.com/105288887/178789642-b116d7b9-c819-40e1-b1de-ddd4ab3faf44.png)
 - 정해진 태그, 사용자 태그 정의
 - 인터넷 웹 환경에서 작동, 특정 환경 구애 X
 - 데이터 표현 동시에, 데이터만을 가짐
